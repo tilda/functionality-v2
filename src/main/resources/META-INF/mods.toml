@@ -1,0 +1,10 @@
+modLoader="kotlinforforge"
+loaderVersion="[1,)"
+issueTrackerUrl="github.com/tilda/functionality/issues"
+showAsResourcePack=false
+
+[[mods]]
+modId="functionality"
+version="2.0.0"
+displayName="Functionality"
+credits="Forge, and thedarkcolour for Kotlin adapter"
